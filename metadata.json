@@ -1,0 +1,8 @@
+{
+  "name": "Project Wraith",
+  "description": "Tactical AI Command Interface - Stealth Operations Suite",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
